@@ -1,0 +1,53 @@
+SQL - Structured Query Language
+
+#----------------------------------------------
+Database:
+    Type:
+        -Relational: structured data
+            store data in rows and columns
+            transactional data
+
+        -Non-relational (no SQL): unstructured data
+
+    Stored:
+        -Server
+            -Company server (On-Prem)
+
+            -Cloud servers
+                Google
+                AWS
+                Azure
+
+        -Local
+#----------------------------------------------
+Commercial applications:
+    SQL:
+        PostgreSQL
+        MySQL
+        SQLite
+        Microsoft SQL Server
+        Oracle
+        DB2
+
+    NoSQL:
+        MongoDB
+#----------------------------------------------
+* No SQL means not only SQL
+
+SQL:
+    query: request for data from Database
+        -creating -> CREATE
+        -reading  -> SELECT
+        -updating -> UPDATE
+        -deleting -> DELETE
+#----------------------------------------------
+Codes are written here.
+Editor:
+    database providor
+
+    cloud providor:
+        google cloud
+        Azure
+
+    code editor
+        VScode

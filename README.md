@@ -1,3 +1,9 @@
-# hello-world
-this is my first repository mostly for knowing how github works.
-this is the first change being made in this repository
+# Roadmap for Data Analyst
+
+1- SQL
+
+2- Excel
+
+3- PowerBI or Tableau
+
+4- Python

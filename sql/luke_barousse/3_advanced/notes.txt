@@ -1,0 +1,38 @@
+1:39:00
+always need to connect SQL tools to POSTGRESS
+
+data types:
+    INT : integer
+    NUMERIC : float
+        NUMERIC(6,3) = 123.456
+        NUMERIC(precision,scale)
+        precision: total number of digits
+        scale: numbers in the decimal
+
+    TEXT: string of characters (unlimited)
+    VARCHAR : string with limit to its length
+        VARCHAR(10): limit of 10 letters
+
+    BOOLEAN: true, false, NULL
+
+    DATE: date without time
+        2024-02-06
+    TIMESTAMP : date with time 
+        2024-02-06 15:04:05
+    TIMESTAMP WITH TIME ZONE:
+        2024-02-06 15:04:05 +00:00
+
+
+
+1:47:53
+--------------Manipulate Tables------------------
+CREATE TABLE: create Tables
+INSERT INTO: add column to your data 
+ALTER TABLE: alter tables 
+    ADD
+    RENAME COLUMN 
+    ALTER COLUMN: change datatype of a column 
+    DROP COLUMN: delete a column 
+DROP TABLE: delete tables 
+
+1:53:17

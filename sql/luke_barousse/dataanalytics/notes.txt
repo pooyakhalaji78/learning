@@ -1,3 +1,4 @@
 Tableau, Power BI
 SQL
 Excel
+AWS, Azure
